@@ -12,7 +12,18 @@ Steps to test locally
 
 
 
+
+-
+
+
+
+
 ![Closed/OpenedLoop Homepage 2](http://res.cloudinary.com/dxqtuwks5/image/upload/v1516805158/Screen_Shot_2018-01-24_at_8.44.36_AM_icyejo.png)
+
+
+
+
+-
 
 
 
